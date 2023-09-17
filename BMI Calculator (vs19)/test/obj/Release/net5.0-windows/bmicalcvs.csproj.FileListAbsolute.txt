@@ -21,3 +21,4 @@ C:\Users\admin\source\repos\test(dotnet5)\test\obj\Release\net5.0-windows\bmical
 C:\Users\admin\source\repos\test(dotnet5)\test\obj\Release\net5.0-windows\ref\bmicalcvs.dll
 C:\Users\admin\source\repos\test(dotnet5)\test\obj\Release\net5.0-windows\bmicalcvs.pdb
 C:\Users\admin\source\repos\test(dotnet5)\test\obj\Release\net5.0-windows\bmicalcvs.genruntimeconfig.cache
+C:\Users\admin\source\repos\test(dotnet5)\test\obj\Release\net5.0-windows\bmicalcvs.csproj.AssemblyReference.cache
