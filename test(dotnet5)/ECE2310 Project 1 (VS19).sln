@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmicalcvs", "test\bmicalcvs.csproj", "{B09E3524-AF84-48E2-A189-E039D4CC970D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09E3524-AF84-48E2-A189-E039D4CC970D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09E3524-AF84-48E2-A189-E039D4CC970D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09E3524-AF84-48E2-A189-E039D4CC970D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09E3524-AF84-48E2-A189-E039D4CC970D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2552078C-2540-4F06-8538-EB8CF476D0AD}
+	EndGlobalSection
+EndGlobal
